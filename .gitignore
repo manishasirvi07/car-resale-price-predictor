@@ -1,0 +1,5 @@
+cardekho_dataset.csv
+__pycache__/
+.venv/
+venv/
+.env
